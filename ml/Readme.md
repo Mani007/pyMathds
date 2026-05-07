@@ -12,6 +12,7 @@
 7. Stactistics
 8. Vector and 3D
 9. Sets, relation and function
+10. Partial derivtive
 #### Resources
 RD Sharma - class 11 and 12 
 ## Math
